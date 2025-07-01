@@ -1,1 +1,0 @@
-/usr/bin/clang++  -Wall -Wextra -g3  CMakeFiles/plinko.dir/src/main.cpp.o -o plinko  libs/raylib/raylib/libraylib.a -lm -lpthread /usr/lib/x86_64-linux-gnu/libOpenGL.so /usr/lib/x86_64-linux-gnu/libGLX.so /usr/lib/x86_64-linux-gnu/libGLU.so /usr/lib/x86_64-linux-gnu/librt.a -lm -ldl 
